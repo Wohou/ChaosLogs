@@ -1,0 +1,9 @@
+{
+  "name": "ChaosLogs",
+  "version_number": "0.9.0",
+  "website_url": "",
+  "description": "Add to the 'Shrines Logs' the chaos tomes buff to keep a better track of your run.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.738"
+  ]
+}
