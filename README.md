@@ -3,7 +3,7 @@
 **Summary:** A BepInEx mod that adds the Chaos Tome buff to the *Shrine Logs* menu so you can better track the random but powerful *Chaos Tome*.
 
 ## Install
-1. Copy `MegabonkChaosMods.dll` to `BepInEx/plugins/`.
+1. Copy `ChaosLogs` folder to `BepInEx/plugins/`.
 2. Launch the game.
 
 ## How it works (in a nutshell)
