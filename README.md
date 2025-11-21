@@ -14,3 +14,12 @@
 - We add the result to the "Shrine Logs".
 
 Note: Some stats are percentages (%) while others are simple additions (+). To handle this, I hardcoded checks for each stat to determine whether the change is additive or a percentage.
+
+```
+I'm working on a way to add "(Chaos)" next to the stat name in the Shrine Logs for better clarity.
+```
+
+## Contact
+*Discord id* : 199987125859516416
+
+Thanks you !
