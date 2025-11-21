@@ -1,6 +1,6 @@
 {
   "name": "ChaosLogs",
-  "version_number": "0.9.0",
+  "version_number": "0.9.1",
   "website_url": "https://github.com/Wohou/ChaosLogs",
   "description": "Add to the 'Shrines Logs' the chaos tomes buff to keep a better track of your run.",
   "dependencies": [
